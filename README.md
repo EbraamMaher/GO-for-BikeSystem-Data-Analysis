@@ -26,3 +26,6 @@ dataset dimension (183412, 16) where it consists of 16 columns ( duration_sec st
 
 > trip duration has a strong relationship with member type if we compare the types w.r.t the start hour ,Customers always tends to have greater trip duration than subscribers.
 >trip duration has a strong relationship with member type if we compare the types w.r.t the start hour ,Customers always tends to have greater trip duration than subscribers.
+
+
+## you can try exploring the data set using **bike.py**  to get your insights of check the **exploration_template.ipynb** file to see the visualization of the insight I concluded
