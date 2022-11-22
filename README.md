@@ -9,9 +9,9 @@
 > Ford GO bike system data set provides data of 3 categories:
 1) time related data: whole trip durarion , start & end time
 
-2)station related data: start & end stations name, start & end stations location (latitude longitude )
+2) station related data: start & end stations name, start & end stations location (latitude longitude )
 
-3)client's related data like date of birth, gender, user type (Subscriber or not).
+3) client's related data like date of birth, gender, user type (Subscriber or not).
 dataset dimension (183412, 16) where it consists of 16 columns ( duration_sec start_time end_time start_station_id start_station_name start_station_latitude start_station_longitude end_station_id end_station_name end_station_latitude end_station_longitude bike_id user_type member_birth_year member_gender bike_share_for_all_trip)
 
 
